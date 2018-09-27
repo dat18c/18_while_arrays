@@ -31,7 +31,7 @@ while (run)
   }
 }
 ```````
-Et eksempel er at finde mindste 
+Et eksempel er at finde mindste divisor...
 
 ### øvelser
 primtalsfaktorisering med while. Brug f.eks. (tal % i != 0) i while-sætningen. Hvis tal efter while-løkken er det samme som i (løkkevariablen), så er det et primtal. Husk at lægge en til i for hver iteration.
