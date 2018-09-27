@@ -50,7 +50,7 @@ Selvcheck problem 2
 
 Exercises 1 og 2
 
-Efter planlægning af næste uges studier
+## Planlægning af næste uges studier
 
 ## Arrays
 Erklære
@@ -66,4 +66,8 @@ Skrive til array
 ```````
 tal[7] = mitTal;
 ```````
+### Øvelse
 Brug arrays til at styre Student1, 2 og 3 i Uddannelse.
+
+Grav evt. bilforhandleren op og gør plads til 10 biler i forretningen (eller hundekennelen).
+
