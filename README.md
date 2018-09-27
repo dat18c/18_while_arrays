@@ -19,14 +19,44 @@ for (int i=0;i<10;i++)
   System.out.println(i);
 }
 ```````
+Ofte skal vi have en løkke, der kører til en betingelse er opfyldt - vi ved bare ikke hvor længe.
+```````
+boolean run = true;
+while (run)
+{
+  //gør noget
+  if (betingelse) //når en eller anden betingelse er opfyldt
+  {
+    run = false;
+  }
+}
+```````
+Et eksempel er at finde mindste 
+
+### øvelser
+primtalsfaktorisering med while. Brug f.eks. (tal % i != 0) i while-sætningen. Hvis tal efter while-løkken er det samme som i (løkkevariablen), så er det et primtal. Husk at lægge en til i for hver iteration.
+```````
+int = 2;
+tal = ...
+while (tal % i !=0)
+{
+  i++;
+}
+//test om det er et primtal
+```````
+Er 113 et primtal? Er 117?
+
+Selvcheck problem 2
+
+Exercises 1 og 2
 
 Efter planlægning af næste uges studier
 
 ## Arrays
-erklære
+Erklære
 ``````
-*TYPE* *NAVN*[*ANTAL*]
-int tal[10]
+<type>[] <navn> = new <type>[<størrelse>];
+int[] tal = new int[10];
 ``````
 Læse array
 ```````
@@ -36,3 +66,4 @@ Skrive til array
 ```````
 tal[7] = mitTal;
 ```````
+Brug arrays til at styre Student1, 2 og 3 i Uddannelse.
