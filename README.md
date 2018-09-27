@@ -23,8 +23,8 @@ for (int i=0;i<10;i++)
 Efter planlægning af næste uges studier
 
 ## Arrays
-``````
 erklære
+``````
 *TYPE* *NAVN*[*ANTAL*]
 int tal[10]
 ``````
