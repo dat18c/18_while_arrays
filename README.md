@@ -1,4 +1,4 @@
-# 18_while_arrays
+# 20_while_arrays
 
 ## Opsamling på konvertering af klasssediagram
 Uddannelse -> Student til kode
