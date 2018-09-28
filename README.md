@@ -67,7 +67,7 @@ Skrive til array
 tal[7] = mitTal;
 ```````
 ### Øvelse
-Brug arrays til at styre Student1, 2 og 3 i Uddannelse.
+Brug arrays til at styre Student1, 2 og 3 i Skole.
 
 Grav evt. bilforhandleren op og gør plads til 10 biler i forretningen (eller hundekennelen).
 
