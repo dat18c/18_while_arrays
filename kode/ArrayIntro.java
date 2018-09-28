@@ -43,6 +43,12 @@ public class ArrayIntro
       {
          System.out.println("forskellige");
       }
+      //Arrays.toString giver indholdet i stedet for memoryadressen
+      
+      //Arrays.sort sorterer et array
+      
+      //løkke, der går igennem et array
+      
    }
 
 }
