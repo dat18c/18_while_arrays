@@ -81,3 +81,5 @@ Grav evt. bilforhandleren op og gør plads til 10 biler i forretningen (eller hu
 
 Lav array med forskellige tal.
 Gå baglæns igennem et array (fra sidste til første) og skriv indholdet ud.
+Brug .length på arrayet til at finde ud af hvor mange elementer der er.
+
