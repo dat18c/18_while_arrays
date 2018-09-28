@@ -66,6 +66,14 @@ Skrive til array
 ```````
 tal[7] = mitTal;
 ```````
+nyttige metoder
+```````
+import java.util.Arrays;
+...
+boolean ligMed = Arrays.equals(array1, array2); // sammenligner indholdet af array1 og array2
+String tekst = Arrays.toString(array1); // giver indholdet af array1 formateret som liste, kan f.eks. bruges ved println
+Arrays.sort(tal); // sorterer tal i stigende orden
+```````
 ### Øvelse
 Brug arrays til at styre Student1, 2 og 3 i Skole.
 
