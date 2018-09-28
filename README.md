@@ -71,3 +71,5 @@ Brug arrays til at styre Student1, 2 og 3 i Skole.
 
 Grav evt. bilforhandleren op og gør plads til 10 biler i forretningen (eller hundekennelen).
 
+Lav array med forskellige tal.
+Gå baglæns igennem et array (fra sidste til første) og skriv indholdet ud.
